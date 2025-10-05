@@ -12,7 +12,7 @@ Jenkins jobs are configured with customizable build steps, triggers, and post-bu
 ```
 ## Creating a Freestyle project
 ```
-lets create our first build job
+let's create our first build job
 ```
 - From the dashboard menu on the left side, click on new item. 
 ![](./img/1.item.png)
